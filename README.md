@@ -8,7 +8,6 @@ A new Flutter project.
 <head>
 <style>
 img {
-  height:100%;
   width: 100%;
 }
 </style>
